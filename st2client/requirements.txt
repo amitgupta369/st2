@@ -6,7 +6,7 @@
 # in-requirements.txt for that component and then run 'make requirements' to
 # update the component requirements.txt
 argcomplete==3.6.2
-cffi==1.17.1
+cffi==2.0.0
 chardet==5.2.0
 cryptography==43.0.3
 editor==1.6.6
